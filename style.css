@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img-fluid-cus {
+    max-width: 17% !important;
+    /* height: auto; */
+    margin-top: 22px;
+}
+
+.bg-colocustom {
+    background-color: #eefff2;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+a.nav-link.for-active-color {
+    background-color: #63a363;
+    border-radius: 26px;
+    padding: 8px 27px;
+    color: white;
+}
+
+p.are-u {
+    color: red;
+    margin-top: 41px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1.learn {
+    font-weight: 700;
+}
+
+h1.on-any {
+    font-weight: 700;
+}
+
+span.any-sch {
+    color: green;
+}
+
+p.lorem-13 {
+    /* width: 400px; */
+    color: gray;
+    margin-top: 30px;
+}
+
+.r8-img {
+    margin-top: 51px;
+}
+
+.container.need-ss-bottom {
+    padding-bottom: 71px;
+}
+
+.box {
+    width: 240px;
+    height: 240px;
+    background-color: #f4f9f6;
+}
+
+.box-1 {
+    width: 240px;
+    height: 240px;
+}
+
+.box-2 {
+    width: 240px;
+    height: 240px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.box-3 {
+    width: 150px;
+    height: 150px;
+}
+
+.box-4 {
+    width: 150px;
+    height: 150px;
+}
+
+.m-t-11 {
+    margin-top: 97px;
+}
+
+.book {
+    width: 31%;
+    display: block;
+    margin: auto;
+    padding-top: 33px;
+}
+
+h3.topic {
+    font-size: 23px;
+    text-align: center;
+    margin-top: 23px;
+}
+
+p.learn-any {
+    text-align: center;
+    line-height: 0;
+}
+
+.modern {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+p.card-text {
+    font-size: 20px;
+    color: gray;
+}
+
+h1.online-courses {
+    text-align: center;
+    font-weight: 900;
+    font-size: 61px;
+    margin-bottom: 93px;
+}
+
+.card {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: none;
+}
+
+.flex-wrap-cust {
+    display: flex;
+    align-items: center;
+}
+
+img.man {
+    width: 31%;
+    margin: 0 71px 0 0;
+}
+
+.bg-colocustom-bottom {
+    background-color: #282531;
+    width: 100%;
+    /* height: 343px; */
+    color: white;
+}
+
+p.millipns {
+    margin-top: 9%;
+    font-family: 'Poppins';
+    font-size: 21px;
+}
+
+h5.course {
+    margin-top: 33%;
+    font-size: 27px;
+    margin-bottom: 13%;
+}
+
+.copyright {
+    margin-bottom: 0px;
+}
