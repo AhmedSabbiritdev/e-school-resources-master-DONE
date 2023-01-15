@@ -4,9 +4,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    box-sizing: border-box;
+}
+
 .img-fluid-cus {
     max-width: 17% !important;
-    /* height: auto; */
     margin-top: 22px;
 }
 
